@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: gui.Main
+Class-Path: lib/jsch-0.1.54.jar lib/SwingSets3(BeautyEyeLNFDemo).jar lib/hutool-all-5.3.10.jar
+
